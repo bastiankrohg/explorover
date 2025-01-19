@@ -1,0 +1,6 @@
+[submodule "pi"]
+	path = pi
+	url = https://github.com/bastiankrohg/pi.git
+[submodule "coral"]
+	path = coral
+	url = https://github.com/bastiankrohg/coral.git
